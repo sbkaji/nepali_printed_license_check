@@ -135,12 +135,6 @@ else{
 </div>
 </div>
 </center>
-<div class="footer">
-    <p>Embeed link : <textarea disabled rows="2" cols="50"><iframe src="https://itic.org.np/lic/" width="50%" height="400px" frameborder="0"></iframe></textarea>
-
-</textarea></p>
-    <p>@Copyright <a href="https://itic.org.np"> ITIC </a> 2022- All Right Reserved. </p>
-    </div>
 </body>
 </html>
 <!--Thank You Fellows --> 
