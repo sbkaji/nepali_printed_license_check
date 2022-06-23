@@ -2,6 +2,7 @@
  //Code by Subarna Basnet
  //Nepali License Print Check PHP
 $dlno = $_POST['licno'];
+$com = "Information Technology & Innovation Center";
 if($dlno!=""){
     try{
         $url = "https://dotm.gov.np/CheckLicense/ShowDetails?name=&DlNo=".$dlno."&_=1655698386810";
